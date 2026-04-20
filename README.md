@@ -1,2 +1,2 @@
-# FSM_TrafficLightController
+# KiCad_Traffic_Light_Controller_guide
 
